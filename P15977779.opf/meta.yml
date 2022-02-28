@@ -1,0 +1,18 @@
+id: P15977779
+initial_creation_type: input
+source_metadata:
+  title: Replies to Questions
+  language: zh
+  description: 'A selection of replies, responses or answers to questions (dris lan):'
+  volume:
+    aa0c21d5539f4df3884923a98e97f5c2:
+      title: Advice for Hor Özer
+      parent: General
+    5ac7db6aa96247bdb30832da47b47ead:
+      title: Khandro's Plea
+      parent: General
+    ce4f3ed6b7f744299cdee6dd4604ba14:
+      title: The Pointing-the-Staff Instruction
+      parent: General
+created_at: '2022-03-01T05:25:02.268816'
+last_modified_at: '2022-03-01T05:25:02.268818'
